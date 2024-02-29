@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Akash-kokate17/react/static/css/main.a082655b.css",
-    "main.js": "/Akash-kokate17/react/static/js/main.d75a8c38.js",
-    "static/js/676.a07b8305.chunk.js": "/Akash-kokate17/react/static/js/676.a07b8305.chunk.js",
-    "static/js/592.8c87271a.chunk.js": "/Akash-kokate17/react/static/js/592.8c87271a.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/Akash-kokate17/react/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/Akash-kokate17/react/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/Akash-kokate17/react/index.html",
-    "main.a082655b.css.map": "/Akash-kokate17/react/static/css/main.a082655b.css.map",
-    "main.d75a8c38.js.map": "/Akash-kokate17/react/static/js/main.d75a8c38.js.map",
-    "676.a07b8305.chunk.js.map": "/Akash-kokate17/react/static/js/676.a07b8305.chunk.js.map",
-    "592.8c87271a.chunk.js.map": "/Akash-kokate17/react/static/js/592.8c87271a.chunk.js.map"
+    "main.css": "/react/static/css/main.1abb05f9.css",
+    "main.js": "/react/static/js/main.7b0d9153.js",
+    "static/js/676.a07b8305.chunk.js": "/react/static/js/676.a07b8305.chunk.js",
+    "static/js/592.8c87271a.chunk.js": "/react/static/js/592.8c87271a.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/react/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/react/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/react/index.html",
+    "main.1abb05f9.css.map": "/react/static/css/main.1abb05f9.css.map",
+    "main.7b0d9153.js.map": "/react/static/js/main.7b0d9153.js.map",
+    "676.a07b8305.chunk.js.map": "/react/static/js/676.a07b8305.chunk.js.map",
+    "592.8c87271a.chunk.js.map": "/react/static/js/592.8c87271a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a082655b.css",
-    "static/js/main.d75a8c38.js"
+    "static/css/main.1abb05f9.css",
+    "static/js/main.7b0d9153.js"
   ]
 }

@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.height{
+    height: 182px;
+    object-fit: cover;
+}
+.size{
+    height: 250px;
+}
+.imgSize{
+   
+    object-fit: fill;
+    overflow: hidden;
+    height: 300px;
+}
